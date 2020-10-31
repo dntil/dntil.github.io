@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dntil.github.io</id>
     <title>dntil Blog</title>
-    <updated>2020-10-31T12:12:48.313Z</updated>
+    <updated>2020-10-31T12:18:29.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dntil.github.io"/>
     <link rel="self" href="https://dntil.github.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://dntil.github.io/images/avatar.png</logo>
     <icon>https://dntil.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, dntil Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://dntil.github.io/post/about/</id>
+        <link href="https://dntil.github.io/post/about/">
+        </link>
+        <updated>2020-10-31T11:09:48.000Z</updated>
+    </entry>
 </feed>
