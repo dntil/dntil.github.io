@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dntil.github.io</id>
+    <title>摸鱼岛</title>
+    <updated>2020-10-31T11:57:05.766Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dntil.github.io"/>
+    <link rel="self" href="https://dntil.github.io/atom.xml"/>
+    <subtitle>摸了</subtitle>
+    <logo>https://dntil.github.io/images/avatar.png</logo>
+    <icon>https://dntil.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 摸鱼岛</rights>
+</feed>
